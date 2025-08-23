@@ -1,4 +1,6 @@
-<img src=https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif alt="demo" height="450"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" alt="demo" height="300"/>
+</p>
 
 ## 👋 Hi, I’m Sebastian  
 
