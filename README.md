@@ -12,13 +12,6 @@ Full Stack Dev
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimjongappreciator&show_icons=true&theme=cobalt&count_private=true" alt="GitHub Stats"/>
-</p>
-
----
-
 ## 🌐 Connect with me  
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastian-chacon-cordova-a83477151/" target="_blank">
